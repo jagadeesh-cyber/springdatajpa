@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.infy.entities.Product;
 import com.infy.repos.ProductRepo;
-//controller class
 @RestController
 public class ProductRestController {
 	@Autowired
